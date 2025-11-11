@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8" />
+    <title>
+        {{ if .Params.title }}
+        {{ .Params.title }}
+        {{ .Site.Title }}
+        {{ else }}
+        {{ .Site.Title }}
+        {{ end }}
+    </title>
+</head>
+<body>
+    {{ block "main" . }}{{ end }}
+</body>
+</html>
