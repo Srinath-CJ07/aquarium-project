@@ -1,0 +1,15 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    <ul>
+        <li><strong>Company:</strong> {{ .Params.company }}</li>
+        <li><strong>Category:</strong> {{ .Params.category }}</li>
+        {{ with .Params.quantity }}
+        <li><strong>Quantity:</strong> {{ . }}</li>
+        {{ end }}
+        {{ with .Params.price }}
+        <li><strong>Price:</strong> ₹{{ . }}</li>
+        {{ end }}
+    </ul>
+</article>
+{{ end }}
