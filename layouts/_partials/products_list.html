@@ -1,0 +1,22 @@
+{{ if .Pages }}
+<div>
+    {{ range .Pages }}
+    <div>
+        <h2>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+        <ul>
+            <li><strong>Company:</strong> {{ .Params.company }}</li>
+            <li><strong>Category:</strong> {{ .Params.category }}</li>
+            {{ with .Params.size }}
+            <li><strong>Size:</strong> {{ . }}</li>
+            {{ end }}
+            <li><strong>Quantity:</strong> {{ .Params.quantity }}</li>
+            <li><strong>Price:</strong> ₹{{ .Params.price }}</li>
+        </ul>
+    </div>
+    {{ end }}
+</div>
+{{ else }}
+<p>No products found.</p>
+{{ end }}

@@ -1,3 +1,11 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aquarium-project.pages.dev/'
 languageCode = 'en-us'
 title = 'aquarium'
+
+[main]
+  [[menu.main]]
+    identifier = "products"
+    name       = "view all products"
+    url        = "/products/"
+    weight     = 1
+    
