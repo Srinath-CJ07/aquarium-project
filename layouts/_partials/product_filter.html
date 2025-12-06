@@ -37,3 +37,22 @@
     <p>No categories available</p>
     {{ end }}
 </ul>
+
+<h4>Filter by Sub Category:</h4>
+<ul>
+    {{ $subCategories := slice }}
+    {{ range .Pages }}
+    {{ if .Params.subCategory }}
+    {{ $subCategories = $subCategories | append .Params.subCategory }}
+    {{ end }}
+    {{ end }}
+    {{ if gt (len ($subCategories | uniq)) 0 }}
+    {{ range $subCategories | uniq }}
+    <li>
+        <a href="/subcategory/{{ . | urlize }}">{{ . | title }}</a>
+    </li>
+    {{ end }}
+    {{ else }}
+    <p>No sub categories available</p>
+    {{ end }}
+</ul>
