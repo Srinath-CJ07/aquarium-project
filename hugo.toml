@@ -2,10 +2,6 @@ baseURL = 'https://example.com/'
 languageCode = 'en-us'
 title = 'Aquarium Products Store'
 
-[params]
-  description = "Your one-stop shop for aquarium products"
-
 [taxonomies]
   type = 'type'
-  brand = 'brands'
-  category = 'categories'
+  subType = 'subType'
