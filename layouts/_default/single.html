@@ -1,0 +1,19 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<h2>Product Details</h2>
+<ul>
+    {{ with .Params.brand }}<li><strong>Brand:</strong> {{ . | title }}</li>{{ end }}
+    {{ with .Params.type }}<li><strong>Type:</strong> {{ . | title }}</li>{{ end }}
+    {{ with .Params.subType }}<li><strong>Sub Type:</strong> {{ . | title }}</li>{{ end }}
+    {{ with .Params.color }}<li><strong>Color:</strong> {{ . | title }}</li>{{ end }}
+    {{ with .Params.dimensions }}<li><strong>Dimensions:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.size }}<li><strong>Size:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.quantity }}<li><strong>Quantity:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.diameter }}<li><strong>Diameter:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.height }}<li><strong>Height:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.length }}<li><strong>Length:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.power }}<li><strong>Power:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.thickness }}<li><strong>Thickness:</strong> {{ . }}</li>{{ end }}
+    {{ with .Params.price }}<li><strong>Price:</strong> ₹{{ . }}</li>{{ end }}
+</ul>
+{{ end }}
