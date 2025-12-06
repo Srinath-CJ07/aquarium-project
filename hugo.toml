@@ -5,3 +5,4 @@ title = 'Aquarium Products Store'
 [taxonomies]
   type = 'type'
   subType = 'subType'
+  category = 'category'

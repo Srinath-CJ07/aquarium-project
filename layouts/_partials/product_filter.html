@@ -1,0 +1,39 @@
+<h3>Filters</h3>
+
+<h4>Filter by Sub Type:</h4>
+<ul>
+    {{ $subTypes := slice }}
+    {{ range .Pages }}
+    {{ if .Params.subType }}
+    {{ $subTypes = $subTypes | append .Params.subType }}
+    {{ end }}
+    {{ end }}
+    {{ if gt (len ($subTypes | uniq)) 0 }}
+    {{ range $subTypes | uniq }}
+    <li>
+        <a href="/subtype/{{ . | urlize }}">{{ . | title }}</a>
+    </li>
+    {{ end }}
+    {{ else }}
+    <p>No sub types available</p>
+    {{ end }}
+</ul>
+
+<h4>Filter by Category:</h4>
+<ul>
+    {{ $categories := slice }}
+    {{ range .Pages }}
+    {{ if .Params.category }}
+    {{ $categories = $categories | append .Params.category }}
+    {{ end }}
+    {{ end }}
+    {{ if gt (len ($categories | uniq)) 0 }}
+    {{ range $categories | uniq }}
+    <li>
+        <a href="/category/{{ . | urlize }}">{{ . | title }}</a>
+    </li>
+    {{ end }}
+    {{ else }}
+    <p>No categories available</p>
+    {{ end }}
+</ul>
