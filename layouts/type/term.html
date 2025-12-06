@@ -1,5 +1,9 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
+<h1>{{ .Title | humanize | title }}</h1>
+
+{{ partial "product_filter.html" . }}
+
+<h2>Products</h2>
 <ul>
     {{ range .Pages }}
     <li>
