@@ -1,1 +1,12 @@
-<h1>{{ .Title }}</h1>
+{{ define "main" }}
+<h1>Product Types</h1>
+<ul>
+    {{ range $key, $value := .Site.Taxonomies.type }}
+    <li>
+        <a href="/type/{{ $key | urlize }}">
+            {{ $key | humanize | title }} ({{ len $value }} products)
+        </a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
