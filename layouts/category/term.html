@@ -1,0 +1,23 @@
+{{ define "main" }}
+<h1>{{ .Title | replaceRE "^Category/" "" | humanize | title }}</h1>
+
+{{ $parentType := "" }}
+{{ range .Pages }}
+{{ $parentType = .Params.type }}
+{{ break }}
+{{ end }}
+
+{{ if $parentType }}
+{{ $filteredPages := where $.Site.Pages "Params.type" $parentType }}
+{{ partial "product_filter.html" (dict "Pages" $filteredPages) }}
+{{ end }}
+
+<h2>Products</h2>
+<ul>
+    {{ range .Pages }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+</ul>
+{{ end }}
