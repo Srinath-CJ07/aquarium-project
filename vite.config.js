@@ -15,6 +15,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         svelte: path.resolve(__dirname, "assets/js/svelte/main.js"),
+        search: path.resolve(__dirname, "assets/js/search.js"),
       },
       output: {
         entryFileNames: "js/[name].js",

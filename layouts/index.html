@@ -1,4 +1,6 @@
 {{ define "main" }}
+  <input id="search" type="text" placeholder="Search..." />
+  <div id="results"></div>
   <h1>Product Types</h1>
   <ul>
     {{ range $key, $value := .Site.Taxonomies.type }}
