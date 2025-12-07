@@ -56,3 +56,22 @@
     <p>No sub categories available</p>
     {{ end }}
 </ul>
+
+<h4>Filter by Brand:</h4>
+<ul>
+    {{ $brands := slice }}
+    {{ range .Pages }}
+    {{ if .Params.brand }}
+    {{ $brands = $brands | append .Params.brand }}
+    {{ end }}
+    {{ end }}
+    {{ if gt (len ($brands | uniq)) 0 }}
+    {{ range $brands | uniq }}
+    <li>
+        <a href="/brand/{{ . | urlize }}">{{ . | title }}</a>
+    </li>
+    {{ end }}
+    {{ else }}
+    <p>No brands available</p>
+    {{ end }}
+</ul>
