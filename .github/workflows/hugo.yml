@@ -1,0 +1,25 @@
+name: Hugo Analyze
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install npm dependencies
+        run: npm install
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.147.5"
+          extended: true
+      - name: Install npm packages
+        run: npm install
+      - uses: actions/setup-python@v3
+      - uses: pre-commit/action@v3.0.1
+      - name: Build web
+        run: hugo build
