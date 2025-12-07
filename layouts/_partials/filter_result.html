@@ -1,0 +1,44 @@
+{{/* layouts/partials/filter_result.html */}}
+
+{{- $pages := .Pages -}}
+{{- $title := .Title -}}
+{{- $titlePrefix := .TitlePrefix | default "" -}}
+
+
+<div class="filter-result-wrapper">
+  {{/* Title Section */}}
+  {{ if $title }}
+    <h1>{{ $title | replaceRE $titlePrefix "" | humanize | title }}</h1>
+  {{ end }}
+
+  {{/* Filter Section */}}
+  {{ if .ShowFilter }}
+    {{ $parentType := "" }}
+    {{ range $pages }}
+      {{ $parentType = .Params.type }}
+      {{ break }}
+    {{ end }}
+
+    {{ if $parentType }}
+      {{ $filteredPages := where $.Site.Pages "Params.type" $parentType }}
+      {{ partial "product_filter.html" (dict "Pages" $filteredPages) }}
+    {{ end }}
+  {{ end }}
+
+  {{/* Products List Section */}}
+  <h2>Products</h2>
+
+  {{ if $pages }}
+    <ul>
+      {{ range $pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+    <div class="no-products">
+      <p>No products found.</p>
+    </div>
+  {{ end }}
+</div>
