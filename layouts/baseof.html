@@ -9,11 +9,13 @@
     {{ with (templates.Defer (dict "key" "global")) }}
       {{ partial "css.html" . }}
     {{ end }}
+    <link rel="stylesheet" href="/dist/css/app.css" />
     <title>
       {{ .Site.Title }}
     </title>
   </head>
   <body>
     {{ block "main" . }}{{ end }}
+    <script type="module" src="/dist/js/svelte.js"></script>
   </body>
 </html>
