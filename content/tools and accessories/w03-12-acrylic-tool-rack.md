@@ -1,0 +1,27 @@
+---
+title: "w03-12 acrylic tool rack"
+layout: "product"
+type: "tools and accessories"
+subType: "tools"
+category: "planted tank tools"
+subCategory: ""
+brand: "zrdr"
+name: "w03-12 acrylic tool rack"
+color: ""
+dimensions: ""
+price: 300
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

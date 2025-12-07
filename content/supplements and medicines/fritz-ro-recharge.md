@@ -1,0 +1,27 @@
+---
+title: "fritz ro recharge"
+layout: "product"
+type: "supplements and medicines"
+subType: "supplements"
+category: "water conditioner"
+subCategory: ""
+brand: "fritz"
+name: "fritz ro recharge"
+color: ""
+dimensions: ""
+price: ""
+size: ""
+quantity: "453gm"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

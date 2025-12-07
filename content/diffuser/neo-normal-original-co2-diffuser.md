@@ -1,0 +1,27 @@
+---
+title: "neo normal original co2 diffuser"
+layout: "product"
+type: "diffuser"
+subType: "co2 diffuser"
+category: ""
+subCategory: ""
+brand: "aquario"
+name: "neo normal original co2 diffuser"
+color: ""
+dimensions: ""
+price: 750
+size: "small"
+quantity: ""
+diameter: "12mm"
+widthOfClip: ""
+height: "14cm"
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

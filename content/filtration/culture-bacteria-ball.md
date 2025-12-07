@@ -1,0 +1,27 @@
+---
+title: "culture bacteria ball"
+layout: "product"
+type: "filtration"
+subType: "filter media"
+category: ""
+subCategory: ""
+brand: "ny aquarium"
+name: "culture bacteria ball"
+color: ""
+dimensions: ""
+price: 1300
+size: ""
+quantity: "2.5kg"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

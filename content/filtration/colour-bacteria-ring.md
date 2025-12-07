@@ -1,0 +1,27 @@
+---
+title: "colour bacteria ring"
+layout: "product"
+type: "filtration"
+subType: "filter media"
+category: ""
+subCategory: ""
+brand: "others"
+name: "colour bacteria ring"
+color: ""
+dimensions: ""
+price: 240
+size: ""
+quantity: "1 kg"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

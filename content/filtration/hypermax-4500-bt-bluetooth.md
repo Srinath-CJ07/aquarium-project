@@ -1,0 +1,27 @@
+---
+title: "hypermax 4500 bt (bluetooth)"
+layout: "product"
+type: "filtration"
+subType: "canister filter"
+category: ""
+subCategory: ""
+brand: "aquael"
+name: "hypermax 4500 bt (bluetooth)"
+color: ""
+dimensions: ""
+price: 55000
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "18 to 36w | 4500ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

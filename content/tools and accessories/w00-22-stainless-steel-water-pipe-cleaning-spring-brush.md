@@ -1,0 +1,27 @@
+---
+title: "w00-22 stainless steel water pipe cleaning spring brush"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "other accessories"
+subCategory: ""
+brand: "zrdr"
+name: "w00-22 stainless steel water pipe cleaning spring brush"
+color: ""
+dimensions: ""
+price: 450
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

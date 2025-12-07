@@ -1,0 +1,27 @@
+---
+title: "purity spare bags"
+layout: "product"
+type: "filtration"
+subType: "filter media"
+category: ""
+subCategory: ""
+brand: "ny aquarium"
+name: "purity spare bags"
+color: ""
+dimensions: ""
+price: 150
+size: ""
+quantity: "1 piece"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

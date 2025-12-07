@@ -1,0 +1,27 @@
+---
+title: "electric water changer"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "cleaning kit"
+subCategory: ""
+brand: "kintons"
+name: "electric water changer"
+color: ""
+dimensions: ""
+price: 950
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

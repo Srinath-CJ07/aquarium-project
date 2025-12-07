@@ -1,0 +1,27 @@
+---
+title: "submersible pump (sy-6000)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "water pump"
+subCategory: ""
+brand: "waterbear"
+name: "submersible pump (sy-6000)"
+color: ""
+dimensions: ""
+price: 3750
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "100w | 5000ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

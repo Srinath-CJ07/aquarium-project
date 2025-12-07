@@ -1,0 +1,27 @@
+---
+title: "dual wavemaker (wb-z622)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "wavemaker"
+subCategory: ""
+brand: "waterbear"
+name: "dual wavemaker (wb-z622)"
+color: ""
+dimensions: ""
+price: 1500
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "25w | 20000ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

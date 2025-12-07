@@ -1,0 +1,27 @@
+---
+title: "black golden sand"
+layout: "product"
+type: "substrates"
+subType: "sand"
+category: ""
+subCategory: ""
+brand: "greenosis"
+name: "black golden sand"
+color: ""
+dimensions: ""
+price: 750
+size: ""
+quantity: "2.5kg"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: "1-2mm"
+splitterWays: ""
+---
+
+<!-- Add product description here -->

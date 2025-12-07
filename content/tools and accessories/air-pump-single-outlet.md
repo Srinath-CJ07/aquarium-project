@@ -1,0 +1,27 @@
+---
+title: "air pump (single outlet)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "air pump"
+subCategory: ""
+brand: "shanda xaquatic"
+name: "air pump (single outlet)"
+color: ""
+dimensions: ""
+price: 250
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: "3w | 2ltr/min"
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

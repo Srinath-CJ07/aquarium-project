@@ -1,0 +1,27 @@
+---
+title: "fritz rpm liq magnesium"
+layout: "product"
+type: "supplements and medicines"
+subType: "supplements"
+category: ""
+subCategory: ""
+brand: "fritz"
+name: "fritz rpm liq magnesium"
+color: ""
+dimensions: ""
+price: 3900
+size: ""
+quantity: "3.75 ltrs"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

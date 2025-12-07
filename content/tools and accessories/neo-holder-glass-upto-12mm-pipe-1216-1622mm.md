@@ -1,0 +1,27 @@
+---
+title: "neo holder (glass: upto 12mm, pipe: 12/16 & 16/22mm)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "planted material"
+subCategory: ""
+brand: "aquario"
+name: "neo holder (glass: upto 12mm, pipe: 12/16 & 16/22mm)"
+color: ""
+dimensions: "40x20x13mm"
+price: 700
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

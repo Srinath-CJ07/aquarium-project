@@ -1,0 +1,27 @@
+---
+title: "internal filter"
+layout: "product"
+type: "filtration"
+subType: "internal filter"
+category: ""
+subCategory: ""
+brand: "kintons"
+name: "internal filter"
+color: ""
+dimensions: ""
+price: 350
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "3.8w | 500ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

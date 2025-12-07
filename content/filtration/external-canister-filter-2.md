@@ -1,0 +1,27 @@
+---
+title: "external canister filter"
+layout: "product"
+type: "filtration"
+subType: "canister filter"
+category: ""
+subCategory: ""
+brand: "kintons"
+name: "external canister filter"
+color: ""
+dimensions: ""
+price: ""
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "13w | 1200ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

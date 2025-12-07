@@ -1,0 +1,27 @@
+---
+title: "6in1 test strip"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "test kits"
+subCategory: ""
+brand: "fritz"
+name: "6in1 test strip"
+color: ""
+dimensions: ""
+price: ""
+size: ""
+quantity: "100 strips"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

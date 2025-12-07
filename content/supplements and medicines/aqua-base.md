@@ -1,0 +1,27 @@
+---
+title: "aqua base"
+layout: "product"
+type: "supplements and medicines"
+subType: "supplements"
+category: "fertilizer"
+subCategory: ""
+brand: "aquatic center"
+name: "aqua base"
+color: ""
+dimensions: ""
+price: 850
+size: "upto 60cm tank"
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

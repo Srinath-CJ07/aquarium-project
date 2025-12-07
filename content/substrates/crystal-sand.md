@@ -1,0 +1,27 @@
+---
+title: "crystal sand"
+layout: "product"
+type: "substrates"
+subType: "sand"
+category: ""
+subCategory: ""
+brand: "greenosis"
+name: "crystal sand"
+color: ""
+dimensions: ""
+price: 750
+size: ""
+quantity: "2.5kg"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: "2-4mm"
+splitterWays: ""
+---
+
+<!-- Add product description here -->

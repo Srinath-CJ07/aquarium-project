@@ -1,0 +1,27 @@
+---
+title: "three sided bubble strip"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "aeration accessories"
+subCategory: ""
+brand: ""
+name: "three sided bubble strip"
+color: ""
+dimensions: ""
+price: 200
+size: ""
+quantity: "1 piece"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

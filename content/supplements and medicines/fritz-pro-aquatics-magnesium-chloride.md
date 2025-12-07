@@ -1,0 +1,27 @@
+---
+title: "fritz pro aquatics magnesium chloride"
+layout: "product"
+type: "supplements and medicines"
+subType: "supplement"
+category: ""
+subCategory: ""
+brand: "fritz"
+name: "fritz pro aquatics magnesium chloride"
+color: ""
+dimensions: ""
+price: 1000
+size: ""
+quantity: "453gm"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

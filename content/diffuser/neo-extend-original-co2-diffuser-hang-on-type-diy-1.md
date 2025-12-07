@@ -1,0 +1,27 @@
+---
+title: "neo extend original co2 diffuser (hang-on type diy)"
+layout: "product"
+type: "diffuser"
+subType: "co2 diffuser"
+category: ""
+subCategory: ""
+brand: "aquario"
+name: "neo extend original co2 diffuser (hang-on type diy)"
+color: ""
+dimensions: ""
+price: 1150
+size: "medium"
+quantity: ""
+diameter: "17mm"
+widthOfClip: ""
+height: "38cm"
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

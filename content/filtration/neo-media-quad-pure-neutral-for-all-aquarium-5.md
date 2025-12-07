@@ -1,0 +1,27 @@
+---
+title: "neo media quad pure  (neutral for all aquarium)"
+layout: "product"
+type: "filtration"
+subType: "filter media"
+category: ""
+subCategory: ""
+brand: "aquario"
+name: "neo media quad pure  (neutral for all aquarium)"
+color: ""
+dimensions: ""
+price: 3000
+size: "xtra large (5ltr)"
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

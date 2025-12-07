@@ -1,0 +1,27 @@
+---
+title: "tool kit bag"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "planted material"
+subCategory: ""
+brand: "greenosis"
+name: "tool kit bag"
+color: ""
+dimensions: ""
+price: 1900
+size: ""
+quantity: "1 bag"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

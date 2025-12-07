@@ -1,0 +1,27 @@
+---
+title: "internal filter (wb-2770)"
+layout: "product"
+type: "filtration"
+subType: ""
+category: ""
+subCategory: ""
+brand: "waterbear"
+name: "internal filter (wb-2770)"
+color: ""
+dimensions: ""
+price: 750
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "12w | 900ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

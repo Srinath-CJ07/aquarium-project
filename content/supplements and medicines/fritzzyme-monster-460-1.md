@@ -1,0 +1,27 @@
+---
+title: "fritzzyme monster 460"
+layout: "product"
+type: "supplements and medicines"
+subType: "supplements"
+category: "sludge cleaner"
+subCategory: ""
+brand: "fritz"
+name: "fritzzyme monster 460"
+color: ""
+dimensions: ""
+price: 750
+size: ""
+quantity: "946ml"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

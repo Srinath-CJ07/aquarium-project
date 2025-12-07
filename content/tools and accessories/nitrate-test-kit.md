@@ -1,0 +1,27 @@
+---
+title: "nitrate test kit"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "test kits"
+subCategory: ""
+brand: "fritz"
+name: "nitrate test kit"
+color: ""
+dimensions: ""
+price: 2000
+size: ""
+quantity: "90 tests"
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

@@ -1,0 +1,27 @@
+---
+title: "co2 diffusers (small)"
+layout: "product"
+type: "diffuser"
+subType: "co2 diffuser"
+category: ""
+subCategory: ""
+brand: "nuniq"
+name: "co2 diffusers (small)"
+color: ""
+dimensions: ""
+price: 700
+size: "13mm (>40ltr)"
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

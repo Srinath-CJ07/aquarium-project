@@ -1,0 +1,27 @@
+---
+title: "w00-20-12 hose connector"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "other accessories"
+subCategory: ""
+brand: "zrdr"
+name: "w00-20-12 hose connector"
+color: ""
+dimensions: ""
+price: 750
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: "12mm"
+splitterWays: ""
+---
+
+<!-- Add product description here -->

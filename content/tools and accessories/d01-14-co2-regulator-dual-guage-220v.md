@@ -1,0 +1,27 @@
+---
+title: "d01-14 co2 regulator (dual guage) 220v"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "regulator"
+subCategory: ""
+brand: "zrdr"
+name: "d01-14 co2 regulator (dual guage) 220v"
+color: ""
+dimensions: ""
+price: 4000
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

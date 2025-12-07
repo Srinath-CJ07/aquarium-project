@@ -1,0 +1,27 @@
+---
+title: "ultra 1200"
+layout: "product"
+type: "filtration"
+subType: "canister filter"
+category: ""
+subCategory: ""
+brand: "aquael"
+name: "ultra 1200"
+color: ""
+dimensions: ""
+price: 20000
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "14w | 1200ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

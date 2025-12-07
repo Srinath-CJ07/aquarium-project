@@ -1,0 +1,27 @@
+---
+title: "silent air pump (four outlet, adjustable) (wb-q458)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "air pump"
+subCategory: ""
+brand: "waterbear"
+name: "silent air pump (four outlet, adjustable) (wb-q458)"
+color: ""
+dimensions: ""
+price: 2700
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: "4w | 4 x 4ltr/min"
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

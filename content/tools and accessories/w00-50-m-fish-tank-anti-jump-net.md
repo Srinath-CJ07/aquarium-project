@@ -1,0 +1,27 @@
+---
+title: "w00-50-m fish tank anti-jump net"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "other accessories"
+subCategory: ""
+brand: "zrdr"
+name: "w00-50-m fish tank anti-jump net"
+color: ""
+dimensions: ""
+price: 1800
+size: "medium (80 x 106cm)"
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->

@@ -1,0 +1,27 @@
+---
+title: "dual wave maker"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "wavemaker"
+subCategory: ""
+brand: "kintons"
+name: "dual wave maker"
+color: ""
+dimensions: ""
+price: 1250
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: ""
+watts_ltr_hr: "25w | 24000ltr/hr"
+power: ""
+thickness: ""
+splitterWays: ""
+---
+
+<!-- Add product description here -->
