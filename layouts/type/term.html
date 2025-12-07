@@ -1,14 +1,20 @@
 {{ define "main" }}
-<h1>{{ .Title | humanize | title }}</h1>
+<h1>{{ .Title }}</h1>
 
 {{ partial "product_filter.html" . }}
 
 <h2>Products</h2>
-<ul>
-    {{ range .Pages }}
-    <li>
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-</ul>
+
+{{ range .Pages.GroupByParam "brand" }}
+<div id="brand-{{ .Key | urlize }}">
+    <ul>
+        {{ range .Pages }}
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+    </ul>
+</div>
+{{ end }}
+
 {{ end }}
