@@ -7,22 +7,22 @@ const index = new Document({
     index: [
       "title",
       "type",
-      "subType", 
+      "subType",
       "category",
       "subCategory",
       "name",
       "color",
       "dimensions",
-      "size"
+      "size",
     ],
     store: [
       "title",
       "url",
       "type",
       "subType",
-      "category", 
+      "category",
       "subCategory",
-      "name"
+      "name",
     ],
   },
 });
@@ -41,17 +41,17 @@ const results = document.getElementById("results");
 
 input?.addEventListener("input", async (e) => {
   const query = e.target.value.trim();
-  
+
   if (!query) {
     results.innerHTML = "";
     return;
   }
 
-  const matches = await index.searchAsync(query, { 
+  const matches = await index.searchAsync(query, {
     enrich: true,
-    limit: 20
+    limit: 20,
   });
-  
+
   const flatMatches = matches.flatMap((group) => group.result);
 
   results.innerHTML = flatMatches.length
