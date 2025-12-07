@@ -24,4 +24,4 @@ thickness: "5mm"
 splitterWays: ""
 ---
 
-<!-- Add product description here -->
+

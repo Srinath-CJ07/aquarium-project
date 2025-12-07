@@ -24,4 +24,4 @@ thickness: "3-10mm"
 splitterWays: ""
 ---
 
-<!-- Add product description here -->
+

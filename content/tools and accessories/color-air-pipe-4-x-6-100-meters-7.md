@@ -28,4 +28,4 @@ thickness: ""
 splitterWays: ""
 ---
 
-<!-- Add product description here -->
+

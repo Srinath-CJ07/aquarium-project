@@ -24,4 +24,4 @@ thickness: "1mm"
 splitterWays: ""
 ---
 
-<!-- Add product description here -->
+

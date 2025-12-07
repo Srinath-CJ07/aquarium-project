@@ -24,4 +24,4 @@ thickness: "6 - 8mm"
 splitterWays: ""
 ---
 
-<!-- Add product description here -->
+

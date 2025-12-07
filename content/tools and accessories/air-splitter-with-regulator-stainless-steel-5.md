@@ -26,4 +26,4 @@ thickness: ""
 splitterWays: "12 way"
 ---
 
-<!-- Add product description here -->
+
