@@ -23,3 +23,6 @@ title = 'Aquarium Products Store'
     disableWatch = true
     source = 'hugo_stats.json'
     target = 'assets/notwatching/hugo_stats.json'
+
+[outputs]
+  home = ["HTML", "JSON"]

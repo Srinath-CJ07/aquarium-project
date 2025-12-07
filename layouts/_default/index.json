@@ -1,0 +1,20 @@
+{{- $pages := where .Site.RegularPages "Type" "in" (slice "cabinet" "decorations" "diffuser" "food" "glass-tank" "marine-salt" "substrates" "supplements-and-medicines" "tools-and-accessories") -}}
+{{- $list := slice -}}
+{{- range $pages -}}
+  {{- $item := dict
+    "url" .RelPermalink
+    "title" .Title
+    "type" (.Params.type | default "")
+    "subType" (.Params.subType | default "")
+    "category" (.Params.category | default "")
+    "subCategory" (.Params.subCategory | default "")
+    "brand" (.Params.brand | default "")
+    "name" (.Params.name | default "")
+    "color" (.Params.color | default "")
+    "dimensions" (.Params.dimensions | default "")
+    "price" (.Params.price | default "")
+    "size" (.Params.size | default "")
+  -}}
+  {{- $list = $list | append $item -}}
+{{- end -}}
+{{- $list | jsonify -}}
