@@ -1,0 +1,26 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.3.0
+    hooks:
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-json
+        exclude: 'layouts/.*\.json$'
+      - id: pretty-format-json
+        args: ["--no-sort-keys"]
+        exclude: 'layouts/.*\.json$'
+  - repo: https://github.com/google/yamlfmt
+    rev: v0.14.0
+    hooks:
+      - id: yamlfmt
+  - repo: https://github.com/DavidAnson/markdownlint-cli2
+    rev: v0.15.0
+    hooks:
+      - id: markdownlint-cli2
+  - repo: local
+    hooks:
+      - id: prettier-general
+        name: Format Files
+        entry: npx prettier --write
+        language: system
+        files: \.(html|js|md)$

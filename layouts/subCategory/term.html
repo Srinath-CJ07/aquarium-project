@@ -1,23 +1,24 @@
 {{ define "main" }}
-<h1>{{ .Title | replaceRE "^SubCategory/" "" | humanize | title }}</h1>
+  <h1>{{ .Title | replaceRE "^SubCategory/" "" | humanize | title }}</h1>
 
-{{ $parentType := "" }}
-{{ range .Pages }}
-{{ $parentType = .Params.type }}
-{{ break }}
-{{ end }}
+  {{ $parentType := "" }}
+  {{ range .Pages }}
+    {{ $parentType = .Params.type }}
+    {{ break }}
+  {{ end }}
 
-{{ if $parentType }}
-{{ $filteredPages := where $.Site.Pages "Params.type" $parentType }}
-{{ partial "product_filter.html" (dict "Pages" $filteredPages) }}
-{{ end }}
+  {{ if $parentType }}
+    {{ $filteredPages := where $.Site.Pages "Params.type" $parentType }}
+    {{ partial "product_filter.html" (dict "Pages" $filteredPages) }}
+  {{ end }}
 
-<h2>Products</h2>
-<ul>
+
+  <h2>Products</h2>
+  <ul>
     {{ range .Pages }}
-    <li>
+      <li>
         <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+      </li>
     {{ end }}
-</ul>
+  </ul>
 {{ end }}

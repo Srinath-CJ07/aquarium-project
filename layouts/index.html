@@ -1,12 +1,12 @@
 {{ define "main" }}
-<h1>Product Types</h1>
-<ul>
+  <h1>Product Types</h1>
+  <ul>
     {{ range $key, $value := .Site.Taxonomies.type }}
-    <li>
+      <li>
         <a href="/type/{{ $key | urlize }}">
-            {{ $key  }}
+          {{ $key }}
         </a>
-    </li>
+      </li>
     {{ end }}
-</ul>
+  </ul>
 {{ end }}
