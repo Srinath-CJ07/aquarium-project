@@ -1,9 +1,10 @@
 {{ define "main" }}
-{{ partial "filter_result.html" (dict
-"Pages" .Pages
-"Title" .Title
-"TitlePrefix" "^Category/"
-"ShowFilter" true
-"Site" .Site
-) }}
+  {{ partial "filter_result.html" (dict
+    "Pages" .Pages
+    "Title" .Title
+    "TitlePrefix" "^Category/"
+    "ShowFilter" true
+    "Site" .Site
+    )
+  }}
 {{ end }}
