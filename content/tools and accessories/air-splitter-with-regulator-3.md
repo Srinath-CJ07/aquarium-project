@@ -23,5 +23,3 @@ power: ""
 thickness: ""
 splitterWays: "5 way"
 ---
-
-

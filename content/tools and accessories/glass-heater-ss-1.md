@@ -23,5 +23,3 @@ power: "50w"
 thickness: ""
 splitterWays: ""
 ---
-
-

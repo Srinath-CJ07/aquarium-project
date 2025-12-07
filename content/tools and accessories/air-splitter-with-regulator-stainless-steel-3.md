@@ -25,5 +25,3 @@ power: ""
 thickness: ""
 splitterWays: "8 way"
 ---
-
-

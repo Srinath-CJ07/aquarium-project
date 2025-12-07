@@ -25,5 +25,3 @@ power: ""
 thickness: "36mm"
 splitterWays: ""
 ---
-
-

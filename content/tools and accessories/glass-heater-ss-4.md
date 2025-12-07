@@ -23,5 +23,3 @@ power: "300w"
 thickness: ""
 splitterWays: ""
 ---
-
-

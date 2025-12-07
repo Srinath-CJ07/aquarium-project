@@ -23,5 +23,3 @@ power: "25w"
 thickness: ""
 splitterWays: ""
 ---
-
-

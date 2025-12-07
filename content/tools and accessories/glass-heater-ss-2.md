@@ -23,5 +23,3 @@ power: "100w"
 thickness: ""
 splitterWays: ""
 ---
-
-

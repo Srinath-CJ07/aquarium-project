@@ -23,5 +23,3 @@ power: "200w"
 thickness: ""
 splitterWays: ""
 ---
-
-
