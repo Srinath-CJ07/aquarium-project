@@ -1,0 +1,27 @@
+---
+title: "silent air pump
+(single outlet, unadjustable)"
+layout: "product"
+type: "tools and accessories"
+subType: "accessories"
+category: "air pump"
+subCategory: ""
+brand: "kintons"
+name: "silent air pump
+(single outlet, unadjustable)"
+color: ""
+dimensions: ""
+price: 400
+size: ""
+quantity: ""
+diameter: ""
+widthOfClip: ""
+height: ""
+length: ""
+hoseSize: ""
+watts_ltr_min: "2.5w | 3ltr/min"
+watts_ltr_hr: ""
+power: ""
+thickness: ""
+splitterWays: ""
+---
